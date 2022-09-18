@@ -17,3 +17,7 @@ If are are the coding type, you can build your own following the instructions pr
 See if someone else has reported the same issue or idea [on the repository issues page](https://github.com/NimbleEngineer21/mini-skarm/issues).
 
 If not, feel free to submit a new issue or feature request.
+
+## Dependencies
+
+https://github.com/2dom/PxMatrix --> to drive display
